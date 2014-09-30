@@ -9,7 +9,6 @@ The following directories and their contents are Copyright Walter Krix.
 You may not reuse anything therein without my permission:
 
 * _posts/
-* _drafts/
-* images/
+* img/
 
-All other directories and files are Apache Licensed.
+All other directories and files are MIT Licensed.
