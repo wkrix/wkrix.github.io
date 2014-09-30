@@ -2,7 +2,7 @@
 title: Klayton Wade's blog
 email: wkrix89@gmail.com
 description: "myblog"
-baseurl: "http://wkrix.github.io/"
+baseurl: "http://wkrix.github.io"
 url: "http://wkrix.github.io"
 author:
     name: "Walter Krix"
