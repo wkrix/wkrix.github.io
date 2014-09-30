@@ -1,0 +1,15 @@
+# Site settings
+title: Klayton Wade's blog
+email: wkrix89@gmail.com
+description: "myblog"
+baseurl: ""
+url: "http://wkrix.github.io"
+twitter_username: KlaytonWade
+github_username:  wkrix
+facebook_username:  wkrix
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
