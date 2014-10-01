@@ -1,4 +1,4 @@
-[blog.wkrix.me](http://blog.wkrix.me)
+[wkrix.github.io](http://wkrix.github.io)
 =================
 
 My personal blog
