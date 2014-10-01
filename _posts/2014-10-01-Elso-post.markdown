@@ -1,0 +1,25 @@
+---
+layout:     post
+title:      "Elso post"
+subtitle:   "hello world"
+date:       2014-10-01 12:00:00
+author:     "Walter Krix"
+header-img: "img/post-bg-01.jpg"
+---
+
+<p>HI ALL</p>
+
+<h2 class="section-heading">Hopp egy heading</h2>
+
+
+
+
+<blockquote>Idezek egyet! yawn</blockquote>
+
+<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+
+<h2 class="section-heading">Megegy heading</h2>
+
+<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
+<img class="img-responsive" src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="">
+<span class="caption text-muted">szoveg alairast is nyomok</span>
