@@ -380,7 +380,7 @@ form .row:first-child .floating-label-form-group {
   background-color: #404040;
   cursor: not-allowed;
 }
-.discuss {
+.disqus {
 margin: 20px 0 0;
 }
 ::-moz-selection {
