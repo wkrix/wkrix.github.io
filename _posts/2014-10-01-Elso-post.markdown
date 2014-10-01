@@ -4,7 +4,7 @@ title:      "Elso post"
 subtitle:   "hello world"
 date:       2014-10-01 12:00:00
 author:     "Walter Krix"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/contact-bg.jpg"
 ---
 
 <p>HI ALL</p>
