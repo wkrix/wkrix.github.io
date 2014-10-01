@@ -380,6 +380,9 @@ form .row:first-child .floating-label-form-group {
   background-color: #404040;
   cursor: not-allowed;
 }
+.discuss {
+margin: 20px 0 0;
+}
 ::-moz-selection {
   color: white;
   text-shadow: none;
@@ -401,6 +404,4 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
-.discuss {
-margin: 20px 0 0;
-}
+
