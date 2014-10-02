@@ -11,4 +11,4 @@ You may not reuse anything therein without my permission:
 * _posts/
 * img/
 
-All other directories and files are Apache Licensed.
+All other directories and files are [Apache Licensed](LICENSE).
