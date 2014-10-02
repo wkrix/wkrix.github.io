@@ -20,7 +20,7 @@
                 </li>
                 {% for page in site.pages %}
                 <li>
-                    {% if page.title %}{% if page.404 == false  %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}{% endif %}
+                    {% if page.title %}{% if page.404 != true  %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}{% endif %}
                 </li>
                 {% endfor %}
             </ul>
