@@ -3,6 +3,8 @@ layout: page
 description: "Test"
 header-img: "img/home-bg.jpg"
 ---
+<h1>Articles by tag :{{ page.tag }}</h1>
+
 {% if site.tags[page.tag] %}
 {% for post in site.tags[page.tag] %}
 <div class="post-preview">
