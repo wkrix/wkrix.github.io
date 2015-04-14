@@ -3,8 +3,13 @@ layout: page
 description: "Test"
 header-img: "img/home-bg.jpg"
 ---
-<h1>Articles by tag :{{ page.tag }}</h1>
 
+<div class="status-msg-body">
+Showing posts with tag
+<b>{{ page.tag }}</b>
+.
+<a href="{{ site.baseurl }}" >Show all posts</a>
+</div>
 {% if site.tags[page.tag] %}
 {% for post in site.tags[page.tag] %}
 <div class="post-preview">
