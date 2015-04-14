@@ -4,9 +4,8 @@ description: "Test"
 header-img: "img/home-bg.jpg"
 ---
 <div class="alert alert-info" role="alert">Showing posts with tag
-<strong>#{{ page.tag }}</strong>
+<strong class="label label-primary">{{ page.tag }}</strong>
 .
-<a href="{{ site.baseurl }}/" class="label label-primary">Show all posts</a></div>
 
 {% if site.tags[page.tag] %}
 {% for post in site.tags[page.tag] %}
