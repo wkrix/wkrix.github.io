@@ -5,6 +5,7 @@ subtitle:   "hello world"
 date:       2014-10-01 12:00:00
 author:     "Walter Krix"
 header-img: "img/contact-bg.jpg"
+tags: [test, tags]
 ---
 
 <p>HI ALL</p>
