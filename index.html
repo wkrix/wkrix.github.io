@@ -34,7 +34,7 @@ header-img: "img/home-bg.jpg"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted in <p id="post-meta">{{ tags_content }}</p> by on {{ post.date | date: "%B %-d, %Y" }} {{ post.author }}</p>
+    <p class="post-meta">Posted in {{ tags_content }} by on {{ post.date | date: "%B %-d, %Y" }} {{ post.author }}</p>
 </div>
 <hr>
 {% endfor %}
